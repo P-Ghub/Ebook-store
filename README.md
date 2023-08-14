@@ -21,11 +21,11 @@ This is a program for a bookstore which allows the clerk to enter data about boo
 
 1. Run the ebookstore.py file on your IDE. 
 
-![screenshot 01](images/run_file.jpeg)
+![Screenshot 01](images/run_file.jpg)
 
 2. After running the file, a ebookstore database will be created in the ebookstore.py file's directory. A welcome message and instructions menu will pop up in the terminal. Follow the prompts or press 0 to exit.
 
-![screenshot 02](images/terminal_instructions.jpeg)
+![Screenshot 02](images/terminal_instructions.jpg)
 
 ## Credit
 - Philisani ([P-Ghub](https://github.com/P-Ghub))
