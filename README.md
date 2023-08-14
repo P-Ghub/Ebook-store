@@ -30,5 +30,5 @@ This is a program for a bookstore which allows the clerk to enter data about boo
 ## Credit
 - Philisani ([P-Ghub](https://github.com/P-Ghub))
 
-4. URL Repository
+# URL Repository
 https://github.com/P-Ghub/Ebook-store.git
